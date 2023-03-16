@@ -75,9 +75,10 @@ python3 Southxchange_Bot.py
 4. to resume screen type `screen -r`
 5. to stop bot press `Control c`
 
-Trading Bot Example:
+Trading Bot Example: The bot show error control
 
-<img src="https://user-images.githubusercontent.com/40405385/225445192-c7b023e7-2922-4252-bd25-16755e2699b9.png" width="25%" alt="Southxchange_bot">
+<img src="https://user-images.githubusercontent.com/40405385/225472200-0746bbd7-3cba-4426-811f-c3de179ea057.png" width="25%" alt="Southxchange_bot">
+![image](https://user-images.githubusercontent.com/40405385/225472200-0746bbd7-3cba-4426-811f-c3de179ea057.png)
 
 
 <div style="color: yellow;">
