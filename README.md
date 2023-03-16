@@ -1,7 +1,12 @@
 # SouthXchange_trading_bot
 Python Trading bot
 
-you will need two files
+You will need two files to run the bot
+
+1. Make a directory for the files for the bot 
+```
+mkdir Southxchange_Trading_Bot
+2. Download files to the new directory you just created
 ```
 .env
 
